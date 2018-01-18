@@ -1,0 +1,8 @@
+[package]
+name = "irc-logger"
+version = "0.0.0"
+authors = ["leavehouse <heavelouse@gmail.com>"]
+
+[dependencies]
+chrono = "0.4"
+irc = "0.12"
